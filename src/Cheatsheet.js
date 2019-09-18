@@ -1,0 +1,5 @@
+/*
+    rconst              Create constructor
+
+
+*/
