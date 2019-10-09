@@ -13,6 +13,7 @@ function App() {
       <FunctionComponent />
       <ClassComponent />
       <FormHandling />
+      <Fragment />
     </div>
   );
 }
