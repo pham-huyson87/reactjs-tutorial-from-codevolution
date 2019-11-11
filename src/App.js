@@ -10,6 +10,7 @@ import Inline from './components/Inline';
 import './appStyles.css';
 import styles from './appStyles.module.css';
 import Fragment from './components/Fragment';
+import UseEffect from './components/UseEffect';
 
 
 function App() {
@@ -24,6 +25,8 @@ function App() {
       <Inline />
       <h1 className='error'>Error</h1>
       <h1 className={styles.success}>Success</h1>
+
+      <UseEffect />
 
     
     </div>
